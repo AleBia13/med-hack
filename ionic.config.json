@@ -1,0 +1,8 @@
+{
+  "name": "MedHack",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "44fc1b90"
+}
